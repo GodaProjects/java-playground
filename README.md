@@ -1,4 +1,4 @@
-# ramdom-java-playground
+# java-playground
 A host of random java code
 
 ### Java 9 enhancements
